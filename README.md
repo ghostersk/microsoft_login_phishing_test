@@ -13,3 +13,7 @@
 ### This HTML should work on its own, without need of assets folder.
 - i have added the assets folder in case Microsoft changes their image hosting.
 - you can either self host the images or change the links to what Microsoft is using
+
+![alt text](preview/table.png)
+![alt text](preview/email.png)
+![alt text](preview/passw_alert.png)
